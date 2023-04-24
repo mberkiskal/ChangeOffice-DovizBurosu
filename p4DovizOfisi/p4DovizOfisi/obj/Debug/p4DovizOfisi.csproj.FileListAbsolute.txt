@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\bin\Debug\p4DovizOfisi.exe.config
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\bin\Debug\p4DovizOfisi.exe
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\bin\Debug\p4DovizOfisi.pdb
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.Form1.resources
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.Properties.Resources.resources
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.exe
+C:\Users\mberk\source\repos\p4DovizOfisi\p4DovizOfisi\obj\Debug\p4DovizOfisi.pdb
